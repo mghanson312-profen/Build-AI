@@ -1,0 +1,11 @@
+[user]
+	name = mghanson312
+	email = mghanson312@gmail.com
+[init]
+	defaultBranch = main
+[credential "https://github.com"]
+	helper = 
+	helper = !/home/keystroker/.local/bin/gh auth git-credential
+[credential "https://gist.github.com"]
+	helper = 
+	helper = !/home/keystroker/.local/bin/gh auth git-credential

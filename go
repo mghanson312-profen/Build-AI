@@ -1,0 +1,1 @@
+/home/keystroker/.local/opt/go-bin-v1.25.1
